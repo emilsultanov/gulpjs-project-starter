@@ -1,0 +1,1 @@
+const log=o=>{console.log(o)};
